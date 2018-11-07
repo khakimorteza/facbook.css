@@ -39,7 +39,7 @@ padding-top: 18px;
   grid-template-columns: : 1fr 1fr;
   grid-template-rows: 1fr;
   background-color:  #edf0f5;
-  padding-left: 200px;
+  padding-left: 230px;
   padding-right: 200px;
   padding-top: 50px;
 }
@@ -48,5 +48,20 @@ padding-top: 18px;
   grid-row: 1;
   grid-column: 1;
   justify-content: center;
+  padding-right: 450px;
 
+}
+
+.span{
+  color: lightgrey;
+}
+.img{
+  display: inline-flex;
+  align-items: center;
+}
+
+.insideMain2 {
+  grid-row: 1;
+  grid-column: 2;
+  padding-left: 0px;
 }
